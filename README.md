@@ -1,2 +1,9 @@
 # Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+
+## Article Review
+
+### [Why Did Silksong Take So Long? It's Not What You Might Think](https://www.gamespot.com/articles/why-did-silksong-take-so-long-its-not-what-you-might-think/1100-6534218/)
+
+As the name implies this article talks about why Silksong took a lot longer than fans and even the developers themselves expected it would take. Overall there weren't any really big _problems_ that held back development, instead the the main thing that gets mentioned as holding back development doesn't seem like an issue at all. One rather interesting thing that the article brings up is that Team Cherry had set up their project in a way that made it easy for people to get quick results based on the work they did. While this obviously seems like a good thing, Ari Gibson said that he had to force himself to stop making new sketches, because since everything he came up with could be easily added into the game he kept coming up with even more ideas and working on those until he realized that he could keep doing this for years to come if he didn't force himself to stop.
+
+I feel like this is a rather important lesson, that being that __just because a feature can be added, doesn't mean it has to be__. Feature creep is a very real problem that can keep projects in "development hell" as you keep scoping your project up more and more and end up never actually releasing it. At some point you have to force yourself to finish your project, or at least get it to a state where it can be released and then maybe updated in the future (and these updates can be based on what users actually want instead of whatever ideas the developer randomly has). Endlessly pushing back your project not only forces you to keep working on things that might not matter but can also ruin any potential interest in what you're making. Luckily for Team Cherry they had a very dedicated community that was willing to wait far beyond the expected deadline, but that doesn't make this lessons any less important.
